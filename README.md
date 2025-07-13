@@ -31,3 +31,4 @@ Recruiters often spend hours scanning through resumes to find the right fit. Thi
 
 ## Screenshots
 
+<img width="1360" height="680" alt="Image" src="https://github.com/user-attachments/assets/1c57a6b8-f297-4e68-8a1a-b1a4bdf7c5e1" />
